@@ -1,0 +1,68 @@
+[
+  {
+    "id": "903",
+    "category_id": "18",
+    "vietnamese": "Vụ nổ ga xe buýt; người hướng dẫn xe buýt khó chịu",
+    "vietnamese_un": "vu no ga xe buyt, nguoi huong dan xe buyt kho chiu",
+    "pinyin": "Basu gasu bakuhatsu busu basu gaido.",
+    "japanese": "バスガス爆発ブスバスガイド",
+    "favorite": "",
+    "voice": "twister_2",
+    "status": "2"
+  },
+  {
+    "id": "904",
+    "category_id": "18",
+    "vietnamese": "Văn phòng phê chuẩn bằng sáng chế đặc biệt Tokyo",
+    "vietnamese_un": "van phong phe chuan bang sang che dac biet tokyo",
+    "pinyin": "Tōkyō Tokkyo Kyokakyoku.",
+    "japanese": "東京特許許可局",
+    "favorite": "",
+    "voice": "twister_3",
+    "status": "2"
+  },
+  {
+    "id": "905",
+    "category_id": "18",
+    "vietnamese": "Bột sống; gạo thô; trứng sống",
+    "vietnamese_un": "bot song, gao tho, trung song",
+    "pinyin": "Namamugi namagome namatamago.",
+    "japanese": "生麦生米生卵",
+    "favorite": "",
+    "voice": "twister_4",
+    "status": "2"
+  },
+  {
+    "id": "906",
+    "category_id": "18",
+    "vietnamese": "Thầy tăng đã vẽ bức tranh của một vị sư tăng rất đẹp trên màn che có thể gấp lại được.",
+    "vietnamese_un": "thay tang da ve buc tranh cua mot vi su tang rat dep tren man che co the gap lai duoc.",
+    "pinyin": "Bōzu ga byōbu ni jōzu ni bōzu no e wo kaita.",
+    "japanese": "坊主が屏風に上手に坊主の絵を描いた",
+    "favorite": "",
+    "voice": "twister_5",
+    "status": "2"
+  },
+  {
+    "id": "907",
+    "category_id": "18",
+    "vietnamese": "Ở phía sau sân có hai con gà và phía trước sân cũng có hai con gà.",
+    "vietnamese_un": "o phia sau san co hai con ga va phia truoc san cung co hai con ga.",
+    "pinyin": "Uraniwa niwa niwa, niwa niwa niwa, niwatori ari.",
+    "japanese": "裏庭には二羽、庭には二羽、鶏あり",
+    "favorite": "",
+    "voice": "twister_6",
+    "status": "2"
+  },
+  {
+    "id": "908",
+    "category_id": "18",
+    "vietnamese": "Một người bán rao dưa hấu đến để bán dưa nhưng không có quả dưa nào được bán; O ; giọng của người bán rao dưa hấu vẫn tiếp tục đằng sau; bán dưa hấu.",
+    "vietnamese_un": "mot nguoi ban rao dua hau den de ban dua nhung khong co qua dua nao duoc ban, o , giong cua nguoi ban rao dua hau van tiep tuc dang sau, ban dua hau.",
+    "pinyin": "Uriuri ga uri urini kite uri urezu uri uri kaeru uriuri no koe.",
+    "japanese": "瓜売りが瓜売りに来て瓜売れず売り売りかえる瓜売りの声",
+    "favorite": "",
+    "voice": "twister_7",
+    "status": "2"
+  }
+]

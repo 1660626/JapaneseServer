@@ -1,0 +1,35 @@
+{
+  "name": "searchjp",
+  "version": "1.1.0",
+  "private": true,
+  "engines": {
+    "node": "16.13.0",
+    "npm": "8.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1660626/Japanese.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1660626/Japanese/issues"
+  },
+  "homepage": "https://github.com/1660626/Japanese#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

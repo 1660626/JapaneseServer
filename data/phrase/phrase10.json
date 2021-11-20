@@ -1,0 +1,178 @@
+[
+  {
+    "id": "620",
+    "category_id": "10",
+    "vietnamese": "Màu tối",
+    "vietnamese_un": "mau toi",
+    "pinyin": "koi iro",
+    "japanese": "濃い色",
+    "favorite": "",
+    "voice": "colour_1",
+    "status": "2"
+  },
+  {
+    "id": "621",
+    "category_id": "10",
+    "vietnamese": "Màu sáng",
+    "vietnamese_un": "mau sang",
+    "pinyin": "usui iro",
+    "japanese": "薄い色",
+    "favorite": "",
+    "voice": "colour_2",
+    "status": "2"
+  },
+  {
+    "id": "622",
+    "category_id": "10",
+    "vietnamese": "Đen",
+    "vietnamese_un": "den",
+    "pinyin": "kuro iro",
+    "japanese": "黒色",
+    "favorite": "",
+    "voice": "colour_3",
+    "status": "2"
+  },
+  {
+    "id": "623",
+    "category_id": "10",
+    "vietnamese": "Nâu",
+    "vietnamese_un": "nau",
+    "pinyin": "cha iro",
+    "japanese": "茶色",
+    "favorite": "",
+    "voice": "colour_4",
+    "status": "2"
+  },
+  {
+    "id": "624",
+    "category_id": "10",
+    "vietnamese": "Xám",
+    "vietnamese_un": "xam",
+    "pinyin": "hai iro",
+    "japanese": "灰色",
+    "favorite": "",
+    "voice": "colour_5",
+    "status": "2"
+  },
+  {
+    "id": "625",
+    "category_id": "10",
+    "vietnamese": "Đỏ",
+    "vietnamese_un": "do",
+    "pinyin": "aka iro",
+    "japanese": "赤色",
+    "favorite": "",
+    "voice": "colour_6",
+    "status": "2"
+  },
+  {
+    "id": "626",
+    "category_id": "10",
+    "vietnamese": "Xanh lá",
+    "vietnamese_un": "xanh la",
+    "pinyin": "midori iro",
+    "japanese": "緑色",
+    "favorite": "",
+    "voice": "colour_7",
+    "status": "2"
+  },
+  {
+    "id": "627",
+    "category_id": "10",
+    "vietnamese": "Vàng",
+    "vietnamese_un": "vang",
+    "pinyin": "ki iro",
+    "japanese": "黄色",
+    "favorite": "",
+    "voice": "colour_8",
+    "status": "2"
+  },
+  {
+    "id": "628",
+    "category_id": "10",
+    "vietnamese": "Xanh dương",
+    "vietnamese_un": "xanh duong",
+    "pinyin": "ao iro",
+    "japanese": "青色",
+    "favorite": "",
+    "voice": "colour_9",
+    "status": "2"
+  },
+  {
+    "id": "629",
+    "category_id": "10",
+    "vietnamese": "Hồng",
+    "vietnamese_un": "hong",
+    "pinyin": "pinku iro/momo iro",
+    "japanese": "ピンク色/桃色",
+    "favorite": "",
+    "voice": "colour_10",
+    "status": "2"
+  },
+  {
+    "id": "630",
+    "category_id": "10",
+    "vietnamese": "Tím",
+    "vietnamese_un": "tim",
+    "pinyin": "murasaki iro",
+    "japanese": "紫色",
+    "favorite": "",
+    "voice": "colour_11",
+    "status": "2"
+  },
+  {
+    "id": "631",
+    "category_id": "10",
+    "vietnamese": "Trắng",
+    "vietnamese_un": "trang",
+    "pinyin": "shiro iro",
+    "japanese": "白色",
+    "favorite": "",
+    "voice": "colour_12",
+    "status": "2"
+  },
+  {
+    "id": "632",
+    "category_id": "10",
+    "vietnamese": "Cam",
+    "vietnamese_un": "cam",
+    "pinyin": "orenji iro/shu iro",
+    "japanese": "オレンジ色/朱色",
+    "favorite": "",
+    "voice": "colour_13",
+    "status": "2"
+  },
+  {
+    "id": "633",
+    "category_id": "10",
+    "vietnamese": "Xanh dương đậm",
+    "vietnamese_un": "xanh duong dam",
+    "pinyin": "kon iro",
+    "japanese": "紺色",
+    "favorite": "",
+    "voice": "colour_14",
+    "status": "2"
+  },
+  {
+    "id": "634",
+    "category_id": "10",
+    "vietnamese": "Vàng (kim loại)",
+    "vietnamese_un": "vang (kim loai)",
+    "pinyin": "kin iro",
+    "japanese": "金色",
+    "favorite": "",
+    "voice": "colour_15",
+    "status": "2"
+  },
+  {
+    "id": "635",
+    "category_id": "10",
+    "vietnamese": "Bạc (kim loại)",
+    "vietnamese_un": "bac (kim loai)",
+    "pinyin": "gin iro",
+    "japanese": "銀色",
+    "favorite": "",
+    "voice": "colour_16",
+    "status": "2"
+  }
+]
