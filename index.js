@@ -10,14 +10,14 @@ const buildPath = path.join(__dirname, '..', 'build');
 if (process.env.NODE_ENV !== "test") {
   app.use(morgan("combined"));
 }
-if (process.env.NODE_ENV === "production") {
-    app.use(express.static("../build"));
+// if (process.env.NODE_ENV === "production") {
+//     app.use(express.static("../build"));
 
-    app.get("*", (req, res) => {
-        res.sendFile(path.join(__dirname, "build", "index.html"));
-    });
-}
-app.use(express.static(buildPath));
+//     app.get("*", (req, res) => {
+//         res.sendFile(path.join(__dirname, "build", "index.html"));
+//     });
+// }
+// app.use(express.static(buildPath));
 app.use(cors());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
